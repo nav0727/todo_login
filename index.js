@@ -76,3 +76,6 @@ app.post("/login", async (request, response) => {
     }
   }
 });
+
+
+module.exports=app;
